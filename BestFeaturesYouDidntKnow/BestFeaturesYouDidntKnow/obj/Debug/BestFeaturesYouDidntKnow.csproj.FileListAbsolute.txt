@@ -1,0 +1,13 @@
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\BestFeaturesYouDidntKnow.exe.config
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\BestFeaturesYouDidntKnow.exe
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\BestFeaturesYouDidntKnow.pdb
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\obj\Debug\BestFeaturesYouDidntKnow.csprojResolveAssemblyReference.cache
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\obj\Debug\BestFeaturesYouDidntKnow.exe
+c:\users\darosa\documents\visual studio 2013\Projects\Samples\Messaging\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\obj\Debug\BestFeaturesYouDidntKnow.pdb
+C:\Users\darosa\Documents\Visual Studio 2013\Projects\Samples\Messaging\service-bus-messaging-samples\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\bin\Debug\BestFeaturesYouDidntKnow.exe.config
+C:\Users\darosa\Documents\Visual Studio 2013\Projects\Samples\Messaging\service-bus-messaging-samples\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\obj\Debug\BestFeaturesYouDidntKnow.exe
+C:\Users\darosa\Documents\Visual Studio 2013\Projects\Samples\Messaging\service-bus-messaging-samples\BestFeaturesYouDidntKnow\BestFeaturesYouDidntKnow\obj\Debug\BestFeaturesYouDidntKnow.pdb
